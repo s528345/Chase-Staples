@@ -1,5 +1,7 @@
 # Chase-Staples
 ![Hosted image](https://www.bing.com/th/id/OIP.hO7O8dqP9LHnh7Z7Q-t22gHaIY?w=163&h=184&c=7&o=5&pid=1.7) Image from Bing.com
+## A Guide for Markdown Language
+ - [Markdown Language](https://www.markdownguide.org/basic-syntax)
 ## Northwest Missour State University
 * Computer Science Major 
 * Junior 
